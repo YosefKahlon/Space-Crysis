@@ -11,7 +11,7 @@ A Game-Dev project of Astronaut and Survival.
 ![Alt text](Screenshot_2023-06-13_19-28-36.png) 
 
 # Play on itch.io
-[Play](https://by-games.itch.io/space-crysis)
+[Play space-crysis](https://by-games.itch.io/space-crysis)
 
 # Watch the trailer
 [Space Crysis | Official Trailer
